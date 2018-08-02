@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GoogleDriveApp</string>
+    <string name="google_drive_app_id">id=AIzaSyCl8nY6Q9ud_KbSySubHo1a3jOOAZeFfyg</string>
+    <string name="google_drive_mime_type">application/vnd.google-apps.drive-sdk.AIzaSyCl8nY6Q9ud_KbSySubHo1a3jOOAZeFfyg</string>
+</resources>
